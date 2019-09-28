@@ -1,0 +1,5 @@
+package br.edu.senior.devnapratica.pedidospdv.services;
+
+public class PedidoService {
+
+}

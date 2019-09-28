@@ -1,0 +1,8 @@
+package br.edu.senior.devnapratica.pedidospdv.services;
+
+import br.edu.senior.devnapratica.pedidospdv.dao.PedidoDAO;
+
+public class PedidoService {
+	
+	private PedidoDAO pedidoDAO;
+}

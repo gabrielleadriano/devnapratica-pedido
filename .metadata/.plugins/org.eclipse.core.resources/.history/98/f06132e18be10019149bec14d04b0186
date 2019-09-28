@@ -1,0 +1,18 @@
+package br.edu.senior.devnapratica.pedidospdv.services;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import br.edu.senior.devnapratica.pedidospdv.dao.PedidoDAO;
+
+@Service
+public class PedidoService {
+	
+	@Autowired
+	private PedidoDAO pedidoDAO;
+	
+	public List<Pedido>
+	
+}
